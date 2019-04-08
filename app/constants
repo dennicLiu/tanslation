@@ -1,0 +1,10 @@
+
+
+let  constants  = module.exports = {};
+
+
+//api constants
+constants.api = {};
+constants.api.success  = "翻译成功";
+constants.api.no_permission  = "您无权访问此接口";
+constants.api.no_str      = "请输入要翻译的文字";
